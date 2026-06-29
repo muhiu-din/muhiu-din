@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi, I'm Muhiu Din</h1>
-  <h3>🚀 Full-Stack Developer | AI Engineering Student</h3>
+  <h3>🚀 Full-Stack Developer | Certified AI Engineer</h3>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Building+Scalable+Web+Apps;Training+Deep+Learning+Models;Next.js+%2B+Python+Enthusiast;Crafting+GradeX+%26+AeroFinds" alt="Typing SVG" />
